@@ -1,7 +1,5 @@
 package com.weekThree;
 
-import com.sun.org.apache.xml.internal.utils.SystemIDResolver;
-
 import java.util.Scanner;
 
 public class MethodExercises {
